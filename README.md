@@ -1,5 +1,6 @@
 The following is shamelessly copied from the NZ Ruby Process [https://github.com/nzruby/2016-committee-nominations](https://github.com/nzruby/2016-committee-nominations)
-# 2016 Ruby NZ committee election
+
+# 2016 JavaScript NZ committee election
 
 The time has come to elect the JavaScript NZ committee members for 2016. 
 
