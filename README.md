@@ -4,7 +4,7 @@ The following is shamelessly copied from the NZ Ruby Process [https://github.com
 
 The time has come to elect the JavaScript NZ committee members for 2016. 
 
-Elections will take place at the JavaScript NZ AGM in April (date TBC).
+Elections will take place at the JavaScript NZ AGM on 31st July 2016 [on google hangouts] (https://plus.google.com/b/111361859158002941418/events/c3p99p0c7hv2hlr4unsop7k3bu0)
 
 ## Nomination process
 
