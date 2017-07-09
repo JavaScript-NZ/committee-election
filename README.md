@@ -1,10 +1,10 @@
 The following is shamelessly copied from the NZ Ruby Process [https://github.com/nzruby/2016-committee-nominations](https://github.com/nzruby/2016-committee-nominations)
 
-# 2016 JavaScript NZ committee election
+# 2017 JavaScript NZ committee election
 
-The time has come to elect the JavaScript NZ committee members for 2016. 
+The time has come to elect the JavaScript NZ committee members for 2017. 
 
-Elections will take place at the JavaScript NZ AGM on 31st July 2016 [on google hangouts] (https://plus.google.com/b/111361859158002941418/events/c3p99p0c7hv2hlr4unsop7k3bu0)
+Elections will take place at the JavaScript NZ AGM on [TBD] [on google hangouts]
 
 ## Nomination process
 
@@ -20,11 +20,11 @@ Every nomination needs a second from another member of JavaScript NZ. To second 
 
 ### President
 
-Currently held by Walter Rumsby [@wrumsby](https://github.com/wrumsby).
+Currently held by Owen Evans [@buildmaster](https://github.com/buildmaster).
 
 ### Secretary
 
-Currently held by Blair McBride [@unfocused](https://github.com/unfocused).
+Currently held by Samson Ootoovak [@ootoovak](https://github.com/ootoovak).
 
 ### Treasurer
 
@@ -35,8 +35,8 @@ Currently held by Alex Gibson [@prototypealex](https://github.com/prototypealex)
 Currently held by:
   - Jen Zajac [@jenofdoom](https://github.com/jenofdoom)
   - Kevin Isom [@kevnz](https://github.com/kevnz)
-  - Vim Jobanputra [@vim](https://github.com/vim) [retiring]
-  - Owen Evans [@buildmaster](https://github.com/buildmaster)
+  - Anna Lezhikova  [@annavlz](https://github.com/annavlz)
+  - James MacFie [@buildmaster](https://github.com/jamesmacfie)
   - Craig Spence [@phenomnomnominal](https://github.com/phenomnomnominal)
-  - Vacant
+  - Stevie Mayhew [@stevie-mayhew](https://github.com/stevie-mayhew)
  
