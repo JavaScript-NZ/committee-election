@@ -36,7 +36,7 @@ Currently held by:
   - Jen Zajac [@jenofdoom](https://github.com/jenofdoom)
   - Kevin Isom [@kevnz](https://github.com/kevnz)
   - Anna Lezhikova  [@annavlz](https://github.com/annavlz)
-  - James MacFie [@buildmaster](https://github.com/jamesmacfie)
+  - James Macfie [@jamesmacfie](https://github.com/jamesmacfie)
   - Craig Spence [@phenomnomnominal](https://github.com/phenomnomnominal)
   - Stevie Mayhew [@stevie-mayhew](https://github.com/stevie-mayhew)
  
