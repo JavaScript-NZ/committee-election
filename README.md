@@ -1,10 +1,10 @@
 The following is shamelessly copied from the NZ Ruby Process [https://github.com/nzruby/2016-committee-nominations](https://github.com/nzruby/2016-committee-nominations)
 
-# 2017 JavaScript NZ committee election
+# 2019 JavaScript NZ committee election
 
-The time has come to elect the JavaScript NZ committee members for 2017. 
+The time has come to elect the JavaScript NZ committee members for 2019. 
 
-Elections will take place at the JavaScript NZ AGM on September 17th 2017 [on google hangouts](https://www.youtube.com/watch?v=wuRM3nx42js)
+Elections will take place at the JavaScript NZ AGM on March 6 2019 [on google hangouts](https://www.youtube.com/watch?v=yN1Ogf2EIlw)
 
 ## Nomination process
 
@@ -28,7 +28,7 @@ Currently held by Samson Ootoovak [@ootoovak](https://github.com/ootoovak).
 
 ### Treasurer
 
-Currently held by Alex Gibson [@prototypealex](https://github.com/prototypealex).
+Currently vacant.
 
 ### General members up to 6
 
