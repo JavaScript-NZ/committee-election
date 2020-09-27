@@ -1,20 +1,20 @@
 The following is shamelessly copied from the NZ Ruby Process [https://github.com/nzruby/2016-committee-nominations](https://github.com/nzruby/2016-committee-nominations)
 
-# 2019 JavaScript NZ committee election
+# 2020 JavaScript NZ committee election
 
-The time has come to elect the JavaScript NZ committee members for 2019. 
+The time has come to elect the JavaScript NZ committee members for 2020 (the AGM has been a bit delayed this year due to the lockdown). 
 
-Elections will take place at the JavaScript NZ AGM on March 6 2019 [on google hangouts](https://www.youtube.com/watch?v=yN1Ogf2EIlw)
+Elections will take place at the JavaScript NZ AGM on Thursday the 29th of October 2020 at 7pm NZDT on google hangouts - a link will be supplied closer to the date.
 
 ## Nomination process
 
-Any member of JavaScript NZ can be nominated to the committee.
+Any member of JavaScript NZ can be nominated to the committee. If you are not currently a member [you can join](https://javascript.org.nz/join).
 
-To nominate, [open an issue](https://github.com/JavaScript-NZ/committee-election/issues/new) with the **name of the person you wish to nominate** (this could be yourself) and the **position you wish to nominate them for**. 
+To nominate, [open an issue](https://github.com/JavaScript-NZ/committee-election/issues/new) with the **name of the person you wish to nominate** (this **can** be yourself) and the **position you wish to nominate them/yourself for**. 
 
-Every nomination needs a second from another member of JavaScript NZ. To second a nomination, comment on the issue where they were nominated. 
+Every nomination needs a second from another member of JavaScript NZ. If you aren't sure who can second your nomination, ask in [the Slack channel](https://app.slack.com/client/T09HZENRK/C09HZBW14) (you can join the Slack community [here](https://javascript.org.nz/slack)). To second a nomination, comment on the issue where they were nominated. 
 
-### 
+All the positions are open for election at the AGM, even if they are currently held.
 
 ## Positions available
 
@@ -24,19 +24,16 @@ Currently held by Owen Evans [@buildmaster](https://github.com/buildmaster).
 
 ### Secretary
 
-Currently held by Samson Ootoovak [@ootoovak](https://github.com/ootoovak).
+Currently held by Jen Zajac [@jenofdoom](https://github.com/jenofdoom).
 
 ### Treasurer
 
-Currently vacant.
+Currently held by Fabian Cook [@FabianCook](https://github.com/fabiancook).
 
-### General members up to 6
+### General committee members (up to 6)
 
 Currently held by:
-  - Jen Zajac [@jenofdoom](https://github.com/jenofdoom)
   - Kevin Isom [@kevnz](https://github.com/kevnz)
-  - Anna Lezhikova  [@annavlz](https://github.com/annavlz)
-  - James Macfie [@jamesmacfie](https://github.com/jamesmacfie)
-  - Craig Spence [@phenomnomnominal](https://github.com/phenomnomnominal)
-  - Stevie Mayhew [@stevie-mayhew](https://github.com/stevie-mayhew)
+  - Aurynn Shaw  [@aurynn](https://github.com/aurynn)
+  - James Pluck [@PapaBearNZ](https://github.com/PapaBearNZ)
  
