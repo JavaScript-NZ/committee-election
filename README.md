@@ -4,7 +4,7 @@ The following is shamelessly copied from the NZ Ruby Process [https://github.com
 
 The time has come to elect the JavaScript NZ committee members for 2020 (the AGM has been a bit delayed this year due to the lockdown). 
 
-Elections will take place at the JavaScript NZ AGM on Thursday the 29th of October 2020 at 7pm NZDT on google hangouts - a link will be supplied closer to the date.
+Elections will take place at the JavaScript NZ AGM on Thursday the 29th of October 2020 at 7pm NZDT on [the society Slack, in the #society-agm channel](https://app.slack.com/client/T09HZENRK/C01DXP02NHX).
 
 ## Nomination process
 
